@@ -1,0 +1,38 @@
+﻿  main.cpp
+c:\users\anton\source\repos\raytracer\raytracer\vec3.h(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\hitable_list.h(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\Camera.h(16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\Camera.h(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\material.h(22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\material.h(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\material.h(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(46): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(63): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(67): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(74): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(78): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(85): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(86): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(101): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(102): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(103): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(112): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(133): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating code
+  11 of 214 functions ( 5.1%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RayTracer.vcxproj -> C:\Users\anton\source\repos\RayTracer\Release\RayTracer.exe

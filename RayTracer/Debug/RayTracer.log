@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\anton\source\repos\raytracer\raytracer\vec3.h(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\hitable_list.h(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\material.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\material.h(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\material.h(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(46): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(60): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(61): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\anton\source\repos\raytracer\raytracer\main.cpp(84): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\anton\source\repos\raytracer\raytracer\material.h(34): warning C4715: 'material::refract': not all control paths return a value
+  RayTracer.vcxproj -> C:\Users\anton\source\repos\RayTracer\Debug\RayTracer.exe
